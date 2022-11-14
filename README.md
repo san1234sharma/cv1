@@ -49,13 +49,13 @@
     <h3><strong>My Hobbies💕</strong></h3>
     <ol type="i">
         <li>
-            <strong><a href="cricket/cricket.html">cricket</a></strong>
+            <strong><a href="cricket.html">cricket</a></strong>
         </li>
         <li>
-            <strong><a href="coding/coding.html">coding</a></strong>
+            <strong><a href="coding.html">coding</a></strong>
         </li>
         <li>
-            <strong><a href="cooking/cooking.html">cooking</a></strong>
+            <strong><a href="cooking.html">cooking</a></strong>
         </li>
     </ol>
     <br>
